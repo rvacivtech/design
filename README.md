@@ -8,4 +8,5 @@ A place for but not limited to assets, resources, ideas, planning, creativity, a
  
 
 ## Resources  
-[Graphics and Logos flickr Gallery - Richmond VA City Government](https://www.flickr.com/photos/richmond-va/albums/72157632188956361)  
+[richmond dotgov](https://github.com/rvacivtech/design/blob/master/richmondgov.md)  
+[Logo Thoughts](https://github.com/rvacivtech/design/blob/master/logo-thoughts.md)  
