@@ -7,6 +7,6 @@ A place for but not limited to assets, resources, ideas, planning, creativity, a
 > @zeldman](https://alistapart.com/article/5k)   
  
 
-## Resources  
+## Internal Planning Resources  
 [richmond dotgov](https://github.com/rvacivtech/design/blob/master/richmondgov.md)  
 [Logo Thoughts](https://github.com/rvacivtech/design/blob/master/logo-thoughts.md)  
