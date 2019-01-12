@@ -6,6 +6,7 @@ A place for but not limited to assets, resources, ideas, planning, creativity, a
 > ["Limitations are the soil from which creativity grows."  
 > @zeldman](https://alistapart.com/article/5k)   
  
+## [Zilla Slab Fontface](https://github.com/rvacivtech/design/blob/master/zilla-slab/readme.md)  
 
 ## Internal Planning Resources  
 [richmond dotgov](https://github.com/rvacivtech/design/blob/master/richmondgov.md)  
