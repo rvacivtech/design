@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Zilla Slab";
+    src: url("../font/ZillaSlab-SemiBold.eot");
+    src: url("../font/ZillaSlab-SemiBold.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlab-SemiBold.woff2") format("woff2"),
+        url("../font/ZillaSlab-SemiBold.woff") format("woff"),
+        url("../font/ZillaSlab-SemiBold.ttf") format("truetype"),
+        url("../font/ZillaSlab-SemiBold.svg#ZillaSlab-SemiBold") format("svg");
+    font-weight: 600;
+    font-style: normal;
+}

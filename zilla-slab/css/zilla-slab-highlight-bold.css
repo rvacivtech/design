@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Zilla Slab Highlight";
+    src: url("../font/ZillaSlabHighlight-Bold.eot");
+    src: url("../font/ZillaSlabHighlight-Bold.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlabHighlight-Bold.woff2") format("woff2"),
+        url("../font/ZillaSlabHighlight-Bold.woff") format("woff"),
+        url("../font/ZillaSlabHighlight-Bold.ttf") format("truetype"),
+        url("../font/ZillaSlabHighlight-Bold.svg#ZillaSlabHighlight-Bold") format("svg");
+    font-weight: 700;
+    font-style: normal;
+}

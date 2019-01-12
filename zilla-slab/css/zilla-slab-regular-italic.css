@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Zilla Slab";
+    src: url("../font/ZillaSlab-RegularItalic.eot");
+    src: url("../font/ZillaSlab-RegularItalic.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlab-RegularItalic.woff2") format("woff2"),
+        url("../font/ZillaSlab-RegularItalic.woff") format("woff"),
+        url("../font/ZillaSlab-RegularItalic.ttf") format("truetype"),
+        url("../font/ZillaSlab-RegularItalic.svg#ZillaSlab-RegularItalic") format("svg");
+    font-weight: 400;
+    font-style: italic;
+}

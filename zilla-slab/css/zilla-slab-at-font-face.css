@@ -1,0 +1,133 @@
+@font-face {
+    font-family: "Zilla Slab";
+    src: url("../font/ZillaSlabRegular.eot");
+    src: url("../font/ZillaSlabRegular.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlabRegular.woff2") format("woff2"),
+        url("../font/ZillaSlabRegular.woff") format("woff"),
+        url("../font/ZillaSlabRegular.ttf") format("truetype"),
+        url("../font/ZillaSlabRegular.svg#ZillaSlabRegular") format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Zilla Slab";
+    src: url("../font/ZillaSlab-RegularItalic.eot");
+    src: url("../font/ZillaSlab-RegularItalic.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlab-RegularItalic.woff2") format("woff2"),
+        url("../font/ZillaSlab-RegularItalic.woff") format("woff"),
+        url("../font/ZillaSlab-RegularItalic.ttf") format("truetype"),
+        url("../font/ZillaSlab-RegularItalic.svg#ZillaSlab-RegularItalic") format("svg");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Zilla Slab";
+    src: url("../font/ZillaSlab-Bold.eot");
+    src: url("../font/ZillaSlab-Bold.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlab-Bold.woff2") format("woff2"),
+        url("../font/ZillaSlab-Bold.woff") format("woff"),
+        url("../font/ZillaSlab-Bold.ttf") format("truetype"),
+        url("../font/ZillaSlab-Bold.svg#ZillaSlab-Bold") format("svg");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Zilla Slab";
+    src: url("../font/ZillaSlab-BoldItalic.eot");
+    src: url("../font/ZillaSlab-BoldItalic.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlab-BoldItalic.woff2") format("woff2"),
+        url("../font/ZillaSlab-BoldItalic.woff") format("woff"),
+        url("../font/ZillaSlab-BoldItalic.ttf") format("truetype"),
+        url("../font/ZillaSlab-BoldItalic.svg#ZillaSlab-BoldItalic") format("svg");
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Zilla Slab";
+    src: url("../font/ZillaSlab-Light.eot");
+    src: url("../font/ZillaSlab-Light.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlab-Light.woff2") format("woff2"),
+        url("../font/ZillaSlab-Light.woff") format("woff"),
+        url("../font/ZillaSlab-Light.ttf") format("truetype"),
+        url("../font/ZillaSlab-Light.svg#ZillaSlab-Light") format("svg");
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Zilla Slab";
+    src: url("../font/ZillaSlab-LightItalic.eot");
+    src: url("../font/ZillaSlab-LightItalic.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlab-LightItalic.woff2") format("woff2"),
+        url("../font/ZillaSlab-LightItalic.woff") format("woff"),
+        url("../font/ZillaSlab-LightItalic.ttf") format("truetype"),
+        url("../font/ZillaSlab-LightItalic.svg#ZillaSlab-LightItalic") format("svg");
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Zilla Slab";
+    src: url("../font/ZillaSlab-Medium.eot");
+    src: url("../font/ZillaSlab-Medium.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlab-Medium.woff2") format("woff2"),
+        url("../font/ZillaSlab-Medium.woff") format("woff"),
+        url("../font/ZillaSlab-Medium.ttf") format("truetype"),
+        url("../font/ZillaSlab-Medium.svg#ZillaSlab-Medium") format("svg");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Zilla Slab";
+    src: url("../font/ZillaSlab-MediumItalic.eot");
+    src: url("../font/ZillaSlab-MediumItalic.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlab-MediumItalic.woff2") format("woff2"),
+        url("../font/ZillaSlab-MediumItalic.woff") format("woff"),
+        url("../font/ZillaSlab-MediumItalic.ttf") format("truetype"),
+        url("../font/ZillaSlab-MediumItalic.svg#ZillaSlab-MediumItalic") format("svg");
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Zilla Slab";
+    src: url("../font/ZillaSlab-SemiBold.eot");
+    src: url("../font/ZillaSlab-SemiBold.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlab-SemiBold.woff2") format("woff2"),
+        url("../font/ZillaSlab-SemiBold.woff") format("woff"),
+        url("../font/ZillaSlab-SemiBold.ttf") format("truetype"),
+        url("../font/ZillaSlab-SemiBold.svg#ZillaSlab-SemiBold") format("svg");
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Zilla Slab";
+    src: url("../font/ZillaSlab-SemiBoldItalic.eot");
+    src: url("../font/ZillaSlab-SemiBoldItalic.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlab-SemiBoldItalic.woff2") format("woff2"),
+        url("../font/ZillaSlab-SemiBoldItalic.woff") format("woff"),
+        url("../font/ZillaSlab-SemiBoldItalic.ttf") format("truetype"),
+        url("../font/ZillaSlab-SemiBoldItalic.svg#ZillaSlab-SemiBoldItalic") format("svg");
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Zilla Slab Highlight";
+    src: url("../font/ZillaSlabHighlight-Regular.eot");
+    src: url("../font/ZillaSlabHighlight-Regular.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlabHighlight-Regular.woff2") format("woff2"),
+        url("../font/ZillaSlabHighlight-Regular.woff") format("woff"),
+        url("../font/ZillaSlabHighlight-Regular.ttf") format("truetype"),
+        url("../font/ZillaSlabHighlight-Regular.svg#ZillaSlabHighlight-Regular") format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Zilla Slab Highlight";
+    src: url("../font/ZillaSlabHighlight-Bold.eot");
+    src: url("../font/ZillaSlabHighlight-Bold.eot?#iefix") format("embedded-opentype"),
+        url("../font/ZillaSlabHighlight-Bold.woff2") format("woff2"),
+        url("../font/ZillaSlabHighlight-Bold.woff") format("woff"),
+        url("../font/ZillaSlabHighlight-Bold.ttf") format("truetype"),
+        url("../font/ZillaSlabHighlight-Bold.svg#ZillaSlabHighlight-Bold") format("svg");
+    font-weight: 700;
+    font-style: normal;
+}
+
